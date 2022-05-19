@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Project
-- 📫 How to reach me dahirualiyuadamu@gmail.com
+- 📫 How to reach me dahirualiyuadamu2@gmail.com
 
 <!---
 DahiruAliyuAdamu/DahiruAliyuAdamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
