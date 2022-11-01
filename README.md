@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @DahiruAliyuAdamu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I'm currently coding in React
+- 🌱 I'm currently coding in Python, Django and Rest framework
+- 🌱 I’m currently learning React with Grphql and Typescript
 - 💞️ I’m looking to collaborate on Project
-- 📫 How to reach me dahirualiyuadamu2@gmail.com
-
-<!---
-DahiruAliyuAdamu/DahiruAliyuAdamu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reac
