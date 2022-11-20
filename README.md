@@ -4,4 +4,4 @@
 - 🌱 I'm currently coding in Python, Django and Rest framework
 - 🌱 I’m currently learning React with Grphql and Typescript
 - 💞️ I’m looking to collaborate on Project
-- 📫 How to reac
+- 📫 How to react
